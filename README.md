@@ -21,7 +21,7 @@
 ```bash
 # Clone the repo
 git clone https://github.com/yourusername/ΛambdaCalc.git
-cd LambdaCalc
+cd ΛambdaCalc
 
 # (Optional) Create virtual environment
 python -m venv venv
