@@ -20,8 +20,8 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/ΛambdaCalc.git
-cd ΛambdaCalc
+git clone https://github.com/yourusername/LambdaCalc.git
+cd LambdaCalc
 
 # (Optional) Create virtual environment
 python -m venv venv
